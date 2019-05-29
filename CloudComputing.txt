@@ -2,4 +2,10 @@ Introduccion: es un paradigma que permite ofrecer servicios de computación a tr
 
 Para esto, primero debemos saber las siguientes definiciones:
 Saas (Software as a Service):Ofrecen una aplicación en la nube como servicio. Ejemplos: Gmail, Office 365, Outlook, etc.
-Paas (Platform as a service): Ofrece un entorno como servicio, pensado principalmente para desarrolladores. Ejemplos: Red hat OpenShift, Google App Engine. 
+Paas (Platform as a service): Ofrece un entorno como servicio, pensado principalmente para desarrolladores. Ejemplos: Red hat OpenShift, Google App Engine.
+Iaas (Infraestructure as a service): Ofrecen infraestructuras de almacenamiento y máquinas virtuales en la nube. Ejemplos: Azure, Amazon Web Services, vCloud, Openstack.
+
+
+
+
+Iintroduccion, Marco teorico y caracteristbas

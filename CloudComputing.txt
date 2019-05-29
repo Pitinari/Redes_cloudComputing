@@ -1,11 +1,19 @@
 Introduccion: es un paradigma que permite ofrecer servicios de computación a través de una red, que usualmente es Internet.
+Cloud computing es un nuevo modelo de prestación de servicios de negocio y tecnología, que permite incluso al usuario acceder a un catálogo de servicios estandarizados y responder con ellos a las necesidades de su negocio, de forma flexible y adaptativa, en caso de demandas no previsibles o de picos de trabajo, pagando únicamente  por el consumo efectuado, o incluso gratuitamente en caso de proveedores que se financian mediante publicidad o de organizaciones sin ánimo de lucro.
 
-Para esto, primero debemos saber las siguientes definiciones:
+El cambio que ofrece la computación desde la nube es que permite aumentar el número de servicios basados en la red. Esto genera beneficios tanto para los proveedores, que pueden ofrecer, de forma más rápida y eficiente, un mayor número de servicios, como para los usuarios que tienen la posibilidad de acceder a ellos, disfrutando de la ‘transparencia’ e inmediatez del sistema y de un modelo de pago por consumo. Así mismo, el consumidor ahorra los costes salariales o los costes en inversión económica (locales, material especializado, etc.).
+
+El concepto de “nube informática” es muy amplio, y abarca casi todos los posibles tipo de servicio en línea, pero cuando las empresas predican ofrecer un utilitario alojado en la nube, por lo general se refieren a alguna de estas tres modalidades:
 Saas (Software as a Service):Ofrecen una aplicación en la nube como servicio. Ejemplos: Gmail, Office 365, Outlook, etc.
 Paas (Platform as a service): Ofrece un entorno como servicio, pensado principalmente para desarrolladores. Ejemplos: Red hat OpenShift, Google App Engine.
 Iaas (Infraestructure as a service): Ofrecen infraestructuras de almacenamiento y máquinas virtuales en la nube. Ejemplos: Azure, Amazon Web Services, vCloud, Openstack.
 
-
-
-
-Iintroduccion, Marco teorico y caracteristbas
+Caracterissticas:
+-Agilidad.
+-Costos menores que una instalacion fisica.
+-Escalabilidad y elasticidad.
+-Independencia entre dispositivo y ubicacion.
+-La virtualizacion permite compartir servidores y dispositivos de almacenamiento. Las aplicaciones pueden ser facilmente migradas de un servidor fisico a otro.
+-Los sistemas en la nube optimizan los recursos utilizados de manera automatica.
+-Es mas seguro que los datos alojados en el servidor esten centralizados, ya que el usuario es responsable de la seguridad de la aplicacion, mientras que el proveedor es responsable de la seguridad fisica.
+-El mantenimiento se vuelve mas sencillo, ya que la aplicacion no necesita estar en el ordenador del usuario, y puede accederse desde diferentes lugares

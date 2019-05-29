@@ -17,3 +17,9 @@ Caracterissticas:
 -Los sistemas en la nube optimizan los recursos utilizados de manera automatica.
 -Es mas seguro que los datos alojados en el servidor esten centralizados, ya que el usuario es responsable de la seguridad de la aplicacion, mientras que el proveedor es responsable de la seguridad fisica.
 -El mantenimiento se vuelve mas sencillo, ya que la aplicacion no necesita estar en el ordenador del usuario, y puede accederse desde diferentes lugares
+
+Vnetajas:
+-La integracion de las aplicaciones es mucho mas facil y sencillo.
+-Poseen una gran distribucion de infraestructuras a nivel mundial.
+-Una infraestructura 100% de cloud computing permite también al proveedor de contenidos o servicios en la nube prescindir de instalar cualquier tipo de software, ya que este es provisto por el proveedor de la infraestructura.
+-Implementación más rápida y con menos riesgos, ya que se comienza a trabajar más rápido y no es necesaria una gran inversión.

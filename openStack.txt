@@ -1,1 +1,1 @@
-En este archivo vamos a explicar que es openStack
+Open stack es un entorno de creacion de clusters para la  supercomputing.

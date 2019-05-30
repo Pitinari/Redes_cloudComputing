@@ -1,9 +1,5 @@
-# Redes_cloudComputing
-Materia de Costello
+# Parte de Luis Aseguinolaza
 
+Dentro de la carpeta Chef se encuentra un resumen del software. 
+Luego de finalizar los resumenes, se reunira la informacion de cada participante en un archivo LaTeX.
 
-https://www.ubuntu.com/openstack/install#workstation-deployment
-
-https://linuxcontainers.org/lxd/getting-started-openstack/
-
-https://www.ubuntu.com/openstack/install#workstation-deployment?_ga=2.67366999.733173205.1558554494-546961247.1558554494

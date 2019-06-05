@@ -1,0 +1,48 @@
+Open Stack: 
+Es una plataforma Cloud Computing de software libre y código abierto. Está 
+diseñada para ofrecer nubes públicas o privadas orientadas a brindar infraestructuras
+ como servicio a los usuarios (Iaas) y para poder desplegar máquinas virtuales. 
+Más de 200 empresas se unieron al proyecto entre las que destacan AMD, Cisco, Dell,
+ Ericsson, HP, IBM, Intel, Yahoo!, etc.
+Su tecnología consiste en una serie de proyectos relacionados entre sí que controlan
+ procesamiento, almacenamiento y recursos de red a través de un centro de datos, todos
+ administrados a través de un panel de control que permite a los administradores 
+controlar mientras potencia a sus usuarios proveyendo los recursos a través de una 
+interfaz web.
+
+Sus componentes:
+- Ceilometer:
+Este componente nos brinda la capacidad de poder ajustar y transformar datos en los 
+componentes de OpenStack para que se adapten a ellos, se utiliza para poder controlar
+los distintos usuarios debido a sus tres principales funciones, estas son "Metering",
+recopila información con respecto a cualquier cosa que se pueda facturar y devuelve
+el resultado en un conjunto de "tickets", "Rating", analiza un conjunto de tickets
+para tranformarlo en un "bill line item", y "Billing", proceso que ensambla todos los
+"bill line item" y devuelve una sola factura por cliente.
+- Cinder:
+Este módulo se centra en el almacenamiento. Nos facilitará acceso al contenido alojado
+ en las unidades de disco que se encuentren en nuestra cloud.
+- Glance:
+Con Glance dispondremos de un servicio de gestión de imágenes (copias íntegras de las
+ unidades de disco duro de las que dispongamos).
+- Heat:
+Heat nos permitirá establecer los requisitos de una aplicación que sirvamos desde 
+nuestra nube, en un archivo que define los recursos necesarios para dicha aplicación. 
+- Horizon:
+El que se encarga de mostrarnos mediante una interfaz gráfica toda la gestión de 
+OpenStack , desde donde podremos ver qué está pasando en nuestra nube y gestionarla.
+- Keystone:
+Este servicio controlará la identificación de los diferentes usuarios que se conecten
+ a nuestra infraestructura, y el acceso a según qué servicios o aplicaciones de los 
+mismos.
+- Neutron:
+Que cada módulo de OpenStack se comunique con otro y estén interrelacionados , es 
+gracias a Neutron, que se encarga de que cada componente desplegado en OpenStack.
+- Nova:
+Considerado el “motor” de OpenStack. Es usado para desplegar y administrar la cantidad
+ de máquinas virtuales y otros servicios que necesitemos .
+- Swift:
+Se trata del módulo encargado de almacenar los archivos del sistema, asegurar su 
+integridad y replicarlos por los diferentes discos que encontramos en la 
+infraestructura, para que éstos siempre estén disponibles y accesibles de la forma más
+ rápida posible.

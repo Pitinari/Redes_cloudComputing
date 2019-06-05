@@ -20,8 +20,11 @@ el resultado en un conjunto de "tickets", "Rating", analiza un conjunto de ticke
 para tranformarlo en un "bill line item", y "Billing", proceso que ensambla todos los
 "bill line item" y devuelve una sola factura por cliente.
 - Cinder:
-Este módulo se centra en el almacenamiento. Nos facilitará acceso al contenido alojado
- en las unidades de disco que se encuentren en nuestra cloud.
+es el servicio de almacenamiento en bloque de OpenStack para proporcionar volúmenes. 
+Nos facilitará acceso al contenido alojado en las unidades de disco que se encuentren 
+en nuestra cloud. Sus principales ventajas son que se pueden añadir rápidamente nuevos 
+comportamientos, que las fallas son fáciles de diagnosticar, depurar y rectificar y que
+los procesos aislados evitan fallos en cascada.
 - Glance:
 Con Glance dispondremos de un servicio de gestión de imágenes (copias íntegras de las
  unidades de disco duro de las que dispongamos).

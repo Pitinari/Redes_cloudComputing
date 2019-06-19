@@ -34,3 +34,11 @@ Desventajas:
 -La modificacion constante de las interfaces debido a la madurez funcional de las aplicaciones hace  que la curva de aprendizaje de las empresas nos tecnologicas tengan una pendiente significativa.
 -La seguridad de la informacion, ya que debe recorrer diferentes modos para llegar a su destino. Si se utilizan encriptaciones para proteger estos datos, la velocidad de estos disminuye debido a la sobrecarga que estos encriptamientos significa.
 -Escalabilidad a largo plazo, esto quiere decir que cuando el servicio tenga mayor demanda, la empresa debera tener un plan de expansion para que sus servicios no se deterioren.
+
+Tipos de Nubes:
+
+-Una nube publica es mantenida y gestionada por terceros no vinculados con la organizacion. En este tipo de nubes tanto los datos como los procesos de varios clientes se mezclan en los servidores, sistemas de almacenamiento y otras infraestructuras de la nuble. Los usuarios no conocen los trabajos que los otros clientes corren en el servidor.
+-Las nubes privadas son una buena opción para las compañías que necesitan alta protección de datos y ediciones a nivel de servicio. Las nubes privadas están en una infraestructura bajo demanda, gestionada para un solo cliente que controla qué aplicaciones debe ejecutarse y dónde. Son propietarios del servidor, red, y disco y pueden decidir qué usuarios están autorizados a utilizar la infraestructura.
+-Las nubes híbridas combinan los modelos de nubes públicas y privadas. Un usuario es propietario de unas partes y comparte otras, aunque de una manera controlada. Un ejemplo son los sistemas de correo electrónico empresarial.
+
+Aspectos de seguridad. En el entorno de la nube, la seguridad es provista por los proveedores:

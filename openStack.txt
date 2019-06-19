@@ -1,1 +1,0 @@
-Open stack es un entorno de creacion de clusters para la  supercomputing.
